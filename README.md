@@ -1,2 +1,2 @@
 # DevOps-Project2
-Devops Project 2
+In this project, you will be designing and implementing a basic Shopping List system utilizing a continuous integration pipeline. You are free to design the UI in any way you like as long as the system meets requirements established by the user stories and acceptance tests. As you work through the project, you will need to implement automated unit tests and automated UI tests as well as ensure code style meets expectations established by the standard Checkstyle configuration for the course. You will be required to build your project as a Maven project and host your Git repository on Github. 
